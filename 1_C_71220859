@@ -1,0 +1,3 @@
+b = input ("Masukan Kata atau angka: ")
+for b in b [::-1]:
+    print(b, end="")
